@@ -38,3 +38,8 @@ Note: If you use a different experiment setup, you need to record your own video
 
 <img src="Figure/L_screenshot.jpg" height="150">  <img src="Figure/3D_coordinate_screenshot.png" height="200">
 
+* The experiment setup
+
+<img src="Figure/hand_box.png" height="150">
+
+
