@@ -22,9 +22,16 @@ In summary, reconsturt 3D information require:
 
 ## Usage 
 ```
+cd Script
+
 python main.py
 ```
-Note: If you use a different experiment setup, you need to record your own video for calibration and prepare your own CCP image
+Note: If you use a different experiment setup, you need to record your own video for calibration and prepare your own CCP image.
 [calibration video example](https://drive.google.com/drive/folders/1VFVJn--nOo_KBbEN7AZJOJACMgElzEjf?usp=sharing)
+
+## Rsult
+* The 3D tracking result:
+
+* Transfer the origin point to the left upper chessboard
 
 
