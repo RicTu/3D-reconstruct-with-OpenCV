@@ -30,10 +30,10 @@ Note: If you use a different experiment setup, you need to record your own video
 [calibration video example](https://drive.google.com/drive/folders/1VFVJn--nOo_KBbEN7AZJOJACMgElzEjf?usp=sharing)
 
 ## Rsult
-* The 3D tracking result:
+* The 2D tracking result from both camera view and the 3D tracking result:
 
-![image](./Figure/R_B.gif) | ![image](./Figure/R_L.gif) | ![image](./Figure/3D_trajectory.gif)
+<img src="Figure/R_B.gif" height="150"> | <img src="Figure/R_L.gif" height="150"> | <img src="Figure/3D_trajectory.gif" height="250">
 
-* Transfer the origin point to the left upper chessboard
+* The origin point of the new coordinate system is at the left upper chessboard
 
 
