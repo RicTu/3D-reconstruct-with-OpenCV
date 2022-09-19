@@ -21,11 +21,10 @@ In summary, reconsturt 3D information require:
 1. Coordinate transformation, convert the origin point to the left upper chessboard
 
 ## Usage 
-
 ```
-Run
+python main.py
 ```
+Note: If you use a different experiment setup, you need to record your own video for calibration and prepare your own CCP image
+[calibration video example](https://drive.google.com/drive/folders/1VFVJn--nOo_KBbEN7AZJOJACMgElzEjf?usp=sharing)
 
-Note: if you want to 
 
-[calibrate video](https://drive.google.com/drive/folders/1VFVJn--nOo_KBbEN7AZJOJACMgElzEjf?usp=sharing)
