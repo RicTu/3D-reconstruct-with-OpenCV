@@ -32,8 +32,9 @@ Note: If you use a different experiment setup, you need to record your own video
 ## Rsult
 * The 2D tracking result from both camera view and the 3D tracking result:
 
-<img src="Figure/R_B.gif" height="150"> | <img src="Figure/R_L.gif" height="150"> | <img src="Figure/3D_trajectory.gif" height="250">
+<img src="Figure/R_B.gif" height="150">  <img src="Figure/R_L.gif" height="150">  <img src="Figure/3D_trajectory.gif" height="250">
 
 * The origin point of the new coordinate system is at the left upper chessboard
 
+<img src="Figure/L_screenshot.jpg" height="150">  <img src="Figure/3D_coordinate_screenshot.png" height="200">
 
