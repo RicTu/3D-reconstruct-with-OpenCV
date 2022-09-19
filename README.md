@@ -13,3 +13,17 @@ In summary, reconsturt 3D information require:
 1. A stereo vision system (two camera)
 1. Camera matrix of these two cameras
 1. A pair of corresponding points in both camera views
+
+## How these scripts work
+1. Camera calibration using pair-wise cameras (e.g. R_L, B_L, and B_R)
+1. Using skin feature tracking to get the corresponding points in both camera view
+1. Apply triangulation algorithm to reconstruct the 3D information of the object
+1. Coordinate transformation, convert the origin point to the left upper chessboard
+
+## Usage 
+
+```
+Run
+```
+
+Note: if you want to 
