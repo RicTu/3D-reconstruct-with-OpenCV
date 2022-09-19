@@ -32,6 +32,8 @@ Note: If you use a different experiment setup, you need to record your own video
 ## Rsult
 * The 3D tracking result:
 
+![image](./Figure/R_B.gif) | ![image](./Figure/R_L.gif) | ![image](./Figure/3D_trajectory.gif)
+
 * Transfer the origin point to the left upper chessboard
 
 
