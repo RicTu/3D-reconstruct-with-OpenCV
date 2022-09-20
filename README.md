@@ -46,6 +46,11 @@ Note: If you use a different experiment setup, you need to record your own video
 * The accuracy of 3D reconstruct
 <img src="Figure/3D_acc.png" height="300">
 
+## Reference
+* Epipolar geometry: https://learnopencv.com/introduction-to-epipolar-geometry-and-stereo-vision/
+* Camera matrix: https://learnopencv.com/geometry-of-image-formation/
+* Camera calibartion: https://learnopencv.com/camera-calibration-using-opencv/
+
 
 
 
